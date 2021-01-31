@@ -3,4 +3,4 @@
 - Code copied from [my answer](https://electronics.stackexchange.com/a/536273/238188) on the Electrical Engineering Stack Exchange.
 - design.vhd contains the VHDL design file and testbench.vhd contains a simple VHDL testbench.
 - Here is a [live demonstration](https://edaplayground.com/x/s5EU) of the project on EDA Playground.
-- Future work: Cyclic Decoder in VHDL. Add parameters.
+- Future work: Cyclic Decoder in VHDL. Make the design parameterisable.
